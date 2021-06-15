@@ -1,0 +1,140 @@
+body{
+  font-size: "Montserrat;"
+}
+h1{
+  font-family: "Montserrat-black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+#title{
+  background-color: lightgreen;
+}
+/* navigation bar */
+.navbar-brand{
+  margin-left:10px;
+}
+.navbar-nav{
+  margin-left:auto;
+}
+.icon{
+  color:white;
+}
+.nav-item{
+  padding:0px 15px;
+}
+.download-button{
+  margin:3% 5% 3% 0%;
+}
+.tilte-img1{
+  margin: 10px;
+}
+.title-img2{
+  width:70%;
+}
+/* feature */
+#features{
+  padding:7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding:0% 3%;
+}
+h3{
+  font-family: "Montserrat-black";
+  color:#f21170;
+}
+.fas{
+  color:red;
+  margin-bottom: 1rem;
+}
+.fas:hover{
+  color:green;
+}
+/* testimonials */
+#testimonials{
+  text-align: center;
+  background-color: lightgreen;
+}
+h2{
+  font-family: "Montserrat-black";
+  font-size: 2rem;
+  font-weight: 1.5rem;
+}
+.testimonial-image{
+  width:20%;
+  border-radius: 100%;
+}
+.corousel-item{
+  padding:2% 15%;
+}
+#press{
+  background-color: lightgreen;
+  text-align: center;
+}
+.press-image{
+  width:20%;
+  padding:20px;
+}
+/* card details */
+.card{
+  margin-top:20px;
+}
+/* pricing section */
+#pricing{
+  background-color: #FFD8CC;
+    background-image: url(https://www.fabhotels.com/blog/wp-content/uploads/2018/08/600x400-23-1280x720.jpg);
+  padding:100px;
+  text-align: center;
+}
+.card-body{
+  background-color: #A9F1DF;
+}
+.card-header{
+  color:#fff;
+  background-color:orange ;
+}
+/* CTA SECTION */
+#cta{
+  background-color: #FFD8CC;
+  text-align: center;
+  padding:30px;
+}
+.chains{
+  text-align: left;
+  font-family: "Montserrat-bold";
+  font-size: 2rem;
+}
+.cta1{
+  padding: 2%;
+  font-family: "Montserrat-black";
+  font-size: 2rem;
+}
+/* Footer section */
+#footer{
+  background-color: lightgreen;
+  padding:7% 15%;
+  text-align: center;
+}
+.social-icon{
+  padding:20px 10px;
+}
+/* Sign in section */
+.form-control{
+  width:30%;
+  padding:10px;
+}
+.login{
+ background-color:#A9F1DF;
+}
+.pull-right{
+margin-right:400px;
+}
+.checkbox{
+  margin-left: 400px;
+}
+.text-center2{
+  padding:20px;
+}
